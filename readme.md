@@ -1,0 +1,1 @@
+# Thư mục chứa một số docker image cùi XD
